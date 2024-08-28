@@ -1,37 +1,32 @@
 [
   {
-    "icon": "Blog",
+    "icon": "Book",
     "name": "洛谷",
     "link": "https://www.luogu.com.cn/"
   },
   {
-    "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
-  },
-  {
-    "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
-  },
-  {
-    "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
-  },
-  {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "Hydro",
+    "link": "https://hydro.ac/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "AI",
+    "link": "https://code.fittentech.com/playground_zh"
   },
   {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
+    "icon": "Compass",
+    "name": "百度",
+    "link": "https://www.baidu.com/"
+  },
+  {
+    "icon": "Compass",
+    "name": "搜索",
+    "link": "https://gw.newtab.com/?source=soft"
+  },
+  {
+    "icon": "Fire",
+    "name": "豆包",
+    "link": "https://www.doubao.com/chat/"
   }
 ]
