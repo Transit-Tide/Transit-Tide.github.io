@@ -24,15 +24,15 @@
     "url": "XiaofanMango@outlook.com"
   },
   {
-    "name": "Twitter",
-    "icon": "/images/icon/twitter.png",
-    "tip": "你懂的 ~",
-    "url": "https://twitter.com/iimmsyy"
+    "name": "Luogu",
+    "icon": "Book",
+    "tip": "我叫 @ 沐咕 ~",
+    "url": "https://www.luogu.com.cn/user/695833"
   },
   {
-    "name": "Telegram",
-    "icon": "/images/icon/telegram.png",
-    "tip": "你懂的 ~",
-    "url": "https://t.me/bottom_user"
+    "name": "Hydro",
+    "icon": "Book",
+    "tip": "我叫 @ ChinaFan ~",
+    "url": "https://hydro.ac/user/45204"
   }
 ]
