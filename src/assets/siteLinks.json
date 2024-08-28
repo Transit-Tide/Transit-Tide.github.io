@@ -28,5 +28,10 @@
     "icon": "Fire",
     "name": "豆包",
     "link": "https://www.doubao.com/chat/"
-  }
+  },
+  {
+    "icon": "Book",
+    "name": "聊天",
+    "link": "https://nightly.paw.msgbyte.com/"
+  },
 ]
