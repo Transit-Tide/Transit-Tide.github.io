@@ -38,9 +38,15 @@
     "icon": "Book",
     "name": "广告位-@沐咕",
     "link": "https://www.luogu.com.cn/user/695833"
-  },{
+  },
+  {
     "icon": "Book",
     "name": "广告位-@sunny_town",
     "link": "https://www.luogu.com.cn/user/1240580"
+  },
+  {
+    "icon": "Book",
+    "name": "广告位-@黑客少年",
+    "link": "https://www.luogu.com.cn/user/1056150"
   }
 ]
