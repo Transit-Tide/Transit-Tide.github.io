@@ -33,5 +33,14 @@
     "icon": "Book",
     "name": "聊天",
     "link": "https://nightly.paw.msgbyte.com/"
+  },
+  {
+    "icon": "Book",
+    "name": "广告位-@沐咕",
+    "link": "https://www.luogu.com.cn/user/695833"
+  },{
+    "icon": "Book",
+    "name": "广告位-@sunny_town",
+    "link": "https://www.luogu.com.cn/user/1240580"
   }
 ]
